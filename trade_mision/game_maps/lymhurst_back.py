@@ -1,0 +1,37 @@
+from trade_mision.classes.movement import MovementClass
+# sleep_time2, break_point, i, mon, mouse, mouse2, speed, gallop1, scale
+
+d = MovementClass(0, 1, 6, {'left': 0, 'top': 0, 'width': 1024, 'height': 768}, 0.1, 0.1, 460, 1, 1)
+
+# sleep(4)
+# d.speed *= 0.8
+# d.movement(648, 270)
+# sleep(3)
+# d.movement(633, 266)
+# d.movement(642, 264)
+# d.movement(620, 250)
+# d.movement(588, 250)
+# d.movement(530, 215)
+# d.movement(543, 214)
+# d.movement(607, 234)
+# d.movement(575, 241)
+# d.movement(458, 248)
+# d.movement(412, 294)
+# d.movement(403, 297)
+# d.movement(401, 278)
+# d.movement(409, 258)
+# pyautogui.moveTo(566, 105, 0.3)
+# pyautogui.click(button='left')
+# sleep(2)
+# d.search_move('../pictures/lymhurst_back_giveitems.png', '../pictures/lymhurst_back_giveitems.png')
+# d.movement(440, 426)
+# d.movement(593, 454)
+# d.movement(634, 460)
+# d.movement(610, 515)
+# d.movement(636, 464)
+# d.movement(646, 452)
+# d.movement(675, 456)
+# d.movement(513, 516)
+# d.movement(586, 524)
+# d.movement(782, 433)
+## bank
